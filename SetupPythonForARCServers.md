@@ -1,4 +1,4 @@
-### This page contains some instructions for setting up Python for ARC servers at Virginia Tech.
+### How to setup Python for ARC servers at Virginia Tech.
 
 ARC default python does not include pip and virtualenv. This instruction assume the working directory is ````$HOME````
 
