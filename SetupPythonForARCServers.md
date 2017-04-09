@@ -23,10 +23,15 @@ vi ~/.bashrc
 ````
 
 #### Step 3. install cutadapt
+in general, if use ````pip install --user````, pip will install package to default user location: $HOME/.local/bin 
+
 ````
 pip install --user --upgrade cutadapt
 ````
 
-
+#### Step 4. install virtualenv
+````
+pip install --user virtualenv
+````
 
 
